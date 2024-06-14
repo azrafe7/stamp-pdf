@@ -11,6 +11,46 @@ from pathlib import Path
 
 OUTPUT_FILE = "output.pdf"
 
+def json_text_data_to_html(data):
+  try:
+    POS_SCALE = 0.75
+    
+    data_text = data["text"][0]
+    pos = [0, 0]
+    
+    json_styles = data_text["fontWeight"].lower().split(" ")
+    pos = [float(data["top"]), float(data["left"])]
+    pos = [POS_SCALE * float(data["top"]), POS_SCALE * float(data["left"])]
+
+    styles = []
+    font_size = data_text["font_size"]
+    if font_size: styles.append(f"font-size:{float(font_size)}")
+    font_color = data_text["colorCode"]
+    if font_color: styles.append(f"color:{font_color}")
+    
+    if "underline" in json_styles:
+      styles.append("text-decoration:underline")
+    if "bold" in json_styles:
+      styles.append("font-weight:bold")
+    
+    html_fmt = "<{{wrapper}} style='{{style}}'>{{text}}</{{wrapper}}>"
+    text = data_text["transOrg"]
+    wrapper = "span"
+    if "superscript" in json_styles:
+      wrapper = "sup"
+    html = html_fmt
+    html = html.replace("{{text}}", text)
+    html = html.replace("{{wrapper}}", wrapper)
+    html = html.replace("{{style}}", "; ".join(styles))
+
+  except Exception as e:
+    print(e)
+    breakpoint()
+    pass
+  
+  return html, pos
+  
+
 if __name__ == "__main__":
   print(f"Input: '{settings.INPUT_FILE}'")
   shutil.copy(settings.INPUT_FILE, OUTPUT_FILE)
@@ -57,12 +97,19 @@ if __name__ == "__main__":
   css += "\n@font-face {font-family: Tiny5; src: url(Tiny5-Regular.ttf);}"
   css += "\n* {font-family: Noto Sans; font-size:14px; color:#11d}"
   html = page.insert_htmlbox(rect=rect, text=html_text, css=css, archive=arch)
+
+  rect = pymupdf.Rect(25, 200, 400, 300)
+  html_text = "text<sup style='font-weight:bold; text-decoration:underline;'>superscript</sup>norm<b style='color:#1f1;font-size:10'>eशि क्या </b>xt </br><li style='color:#f00'> - list</li>"
+  css = ""
+  css += "\n@font-face {font-family: Noto Sans; src: url(NotoSans-VariableFont_wdth,wght.ttf);}"
+  html = page.insert_htmlbox(rect=rect, text=html_text, css=css, archive=arch)
+
   out_doc.subset_fonts(verbose=True)  # build subset fonts to reduce file size
   out_doc.save(out_doc.name, incremental=True, encryption=pymupdf.PDF_ENCRYPT_KEEP)
 
   # 11 lines
   GRID = True
-  breakpoint()
+  # breakpoint()
   if GRID:
     for page in out_doc.pages():
       # breakpoint()
@@ -98,6 +145,22 @@ if __name__ == "__main__":
                              )
       out_doc.save(out_doc.name, incremental=True, encryption=pymupdf.PDF_ENCRYPT_KEEP)
 
+  # insert text from json
+  for json_page in json_data:
+    page_idx, data = list(json_page.items())[0]
+    page_idx = int(page_idx)
+    page_w, page_h, texts = (float(data["width"]), float(data["height"]), data["texts"])
+    print(f"Page {page_idx - 1} ({page_w}x{page_h}): {len(texts)} texts")
+    for text_data in texts:
+      html, pos = json_text_data_to_html(text_data)
+      page = out_doc[page_idx - 1]
+      rect = pymupdf.Rect(pos[0], pos[1], page_w, page_h)
+      # breakpoint()
+      print(rect, pos, html)
+      page.insert_htmlbox(rect=rect, text=html, css="", archive=arch)
+  
+  out_doc.save(out_doc.name, incremental=True, encryption=pymupdf.PDF_ENCRYPT_KEEP)
+      
     
   # test coords
   page = out_doc[0]
