@@ -1,0 +1,2163 @@
+[
+  {
+    "1": {
+      "width": "594",
+      "height": "792",
+      "texts": [
+        {
+          "top": "344.43371582031",
+          "left": "89.481300354004",
+          "text": [
+            {
+              "text": "और इन लक्ष्यों को प्राप्त करने के लिए व्यक्ति को उचित मात्रा में धन की आवश्यकता होती है",
+              "font_size": "10",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "And to achieve these goals, one needs a fair amount of money"
+            }
+          ]
+        },
+        {
+          "top": "321.47821044922",
+          "left": "89.439300537109",
+          "text": [
+            {
+              "text": "हम सभी के सपने होते हैं...सपने जो हमारे वित्तीय लक्ष्य बन जाते हैं",
+              "font_size": "12",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "We all have dreams…dreams that become our Financial Goals"
+            }
+          ]
+        },
+        {
+          "top": "459.44522094727",
+          "left": "109.08139801025",
+          "text": [
+            {
+              "text": "समय के साथ लागत बदलती रहती है; आज एक निश्चित राशि क्या खर्च होती है",
+              "font_size": "12",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Costs keep changing with time; what costs a certain amount today"
+            }
+          ]
+        },
+        {
+          "top": "473.70092773438",
+          "left": "109.08111572266",
+          "text": [
+            {
+              "text": "कल निश्चित रूप से अधिक लागत आएगी!",
+              "font_size": "12",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "will most definitely cost more tomorrow!"
+            }
+          ]
+        },
+        {
+          "top": "617.13208007812",
+          "left": "111.35849761963",
+          "text": [
+            {
+              "text": "मुद्रास्फीति बढ़कर 7% हो गई। स्रोत: कॉलेजदेखो.कॉम, बी स्कूल.करियर360.कॉम, शिक्षा.कॉम,",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Inflation rounded off to 7%. Source : collegedekho.com, bschool.careers360.com, shiksh.com, "
+            }
+          ]
+        },
+        {
+          "top": "625.53173828125",
+          "left": "111.35849761963",
+          "text": [
+            {
+              "text": "दवाओं के लिए - निजी कॉलेजों पर विचार किया जाता है, आम तौर पर संबंधित पाठ्यक्रमों के लिए 4 - 5 कॉलेजों का औसत माना जाता है।",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "For medicines – private colleges considered, Generally considered average of 4 – 5 colleges for respective courses."
+            }
+          ]
+        },
+        {
+          "top": "579.72009277344",
+          "left": "119.8703994751",
+          "text": [
+            {
+              "text": "शिक्षा किसी भी माता-पिता के लिए सबसे महत्वपूर्ण लक्ष्यों में से एक है।",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline",
+              "transOrg": "Education is one ofthe most important goals for any parent."
+            }
+          ]
+        },
+        {
+          "top": "598.13739013672",
+          "left": "118.91059875488",
+          "text": [
+            {
+              "text": "विभिन्न प्रकार के शैक्षिक पाठ्यक्रम उपलब्ध हैं, और अच्छी गुणवत्ता वाली शिक्षा की कीमत चुकानी पड़ती है।",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline",
+              "transOrg": " There are a variety of educational courses available, and good-quality education comes at a price."
+            }
+          ]
+        },
+        {
+          "top": "502.65228271484",
+          "left": "137.57580566406",
+          "text": [
+            {
+              "text": "पारंपरिक पाठ्यक्रम",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Conventional Courses"
+            }
+          ]
+        },
+        {
+          "top": "502.65228271484",
+          "left": "298.9660949707",
+          "text": [
+            {
+              "text": "आज की लागत (लगभग)",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Cost Today (approx)"
+            }
+          ]
+        },
+        {
+          "top": "502.65228271484",
+          "left": "416.16735839844",
+          "text": [
+            {
+              "text": "10 वर्षों के बाद लागत (लगभग)",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Cost after 10 years (approx)"
+            }
+          ]
+        },
+        {
+          "top": "502.65228271484",
+          "left": "216.10565185547",
+          "text": [
+            {
+              "text": "",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " "
+            }
+          ]
+        },
+        {
+          "top": "502.65228271484",
+          "left": "369.8525390625",
+          "text": [
+            {
+              "text": "",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " "
+            }
+          ]
+        },
+        {
+          "top": "502.65228271484",
+          "left": "515.05444335938",
+          "text": [
+            {
+              "text": "",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " "
+            }
+          ]
+        },
+        {
+          "top": "517.19598388672",
+          "left": "137.57403564453",
+          "text": [
+            {
+              "text": "अभियंता",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Engineer "
+            }
+          ]
+        },
+        {
+          "top": "517.19598388672",
+          "left": "322.34024047852",
+          "text": [
+            {
+              "text": "12 लाख",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "12 lacs "
+            }
+          ]
+        },
+        {
+          "top": "517.19598388672",
+          "left": "450.37432861328",
+          "text": [
+            {
+              "text": "23.6 लाख",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "23.6 lacs  "
+            }
+          ]
+        },
+        {
+          "top": "530.15539550781",
+          "left": "137.57403564453",
+          "text": [
+            {
+              "text": "दवा",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Medicine "
+            }
+          ]
+        },
+        {
+          "top": "530.15539550781",
+          "left": "322.34024047852",
+          "text": [
+            {
+              "text": "70 लाख",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "70 lacs "
+            }
+          ]
+        },
+        {
+          "top": "530.15539550781",
+          "left": "448.20275878906",
+          "text": [
+            {
+              "text": "1.4 करोड़",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "1.4 crores  "
+            }
+          ]
+        },
+        {
+          "top": "543.11480712891",
+          "left": "137.57437133789",
+          "text": [
+            {
+              "text": "एमबीए (घरेलू)",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "MBA (domestic)  "
+            }
+          ]
+        },
+        {
+          "top": "543.11480712891",
+          "left": "322.34057617188",
+          "text": [
+            {
+              "text": "10 लाख",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "10 lacs  "
+            }
+          ]
+        },
+        {
+          "top": "543.11480712891",
+          "left": "449.60287475586",
+          "text": [
+            {
+              "text": "19.7 लाख",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "19.7  lacs  "
+            }
+          ]
+        },
+        {
+          "top": "556.07415771484",
+          "left": "137.57446289062",
+          "text": [
+            {
+              "text": "वास्तुकार",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Architect  "
+            }
+          ]
+        },
+        {
+          "top": "556.07415771484",
+          "left": "322.34066772461",
+          "text": [
+            {
+              "text": "10 लाख",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "10 lacs "
+            }
+          ]
+        },
+        {
+          "top": "556.07415771484",
+          "left": "450.37475585938",
+          "text": [
+            {
+              "text": "19.7 लाख",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "19.7 lacs"
+            }
+          ]
+        },
+        {
+          "top": "712.46795654297",
+          "left": "237.1775970459",
+          "text": [
+            {
+              "text": "कोई कैसे जमा करता है",
+              "font_size": "11.774000167847",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "How does one accumulate"
+            }
+          ]
+        },
+        {
+          "top": "723.23229980469",
+          "left": "280.83279418945",
+          "text": [
+            {
+              "text": "पर्याप्त धन",
+              "font_size": "14",
+              "colorCode": "#97134d",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "enough money"
+            }
+          ]
+        },
+        {
+          "top": "719.42431640625",
+          "left": "374.32281494141",
+          "text": [
+            {
+              "text": "",
+              "font_size": "18",
+              "colorCode": "#97134d",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " "
+            }
+          ]
+        },
+        {
+          "top": "737.21020507812",
+          "left": "254.89631652832",
+          "text": [
+            {
+              "text": "इन लक्ष्यों को प्राप्त करने के लिए?",
+              "font_size": "11.774000167847",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "to achieve these goals?"
+            }
+          ]
+        },
+        {
+          "top": "665.41625976562",
+          "left": "87.103302001953",
+          "text": [
+            {
+              "text": "विवादास्पद प्रश्न",
+              "font_size": "12",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "The Moot Question"
+            }
+          ]
+        },
+        {
+          "top": "403.5910949707",
+          "left": "163.89950561523",
+          "text": [
+            {
+              "text": "बच्चों का",
+              "font_size": "9",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Children’s "
+            }
+          ]
+        },
+        {
+          "top": "412.23080444336",
+          "left": "149.47711181641",
+          "text": [
+            {
+              "text": "उच्च शिक्षा",
+              "font_size": "9",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Higher Education"
+            }
+          ]
+        },
+        {
+          "top": "403.25271606445",
+          "left": "89.958000183105",
+          "text": [
+            {
+              "text": "घर",
+              "font_size": "9",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "House"
+            }
+          ]
+        },
+        {
+          "top": "403.43240356445",
+          "left": "316.9833984375",
+          "text": [
+            {
+              "text": "विश्व यात्रा",
+              "font_size": "9",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "World Trip"
+            }
+          ]
+        },
+        {
+          "top": "403.25009155273",
+          "left": "251.3876953125",
+          "text": [
+            {
+              "text": "वाहन",
+              "font_size": "10",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Vehicle"
+            }
+          ]
+        },
+        {
+          "top": "404.09881591797",
+          "left": "459.84759521484",
+          "text": [
+            {
+              "text": "निवृत्ति",
+              "font_size": "9",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Retirement"
+            }
+          ]
+        },
+        {
+          "top": "403.43209838867",
+          "left": "395.40420532227",
+          "text": [
+            {
+              "text": "संपत्ति",
+              "font_size": "9",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Wealth"
+            }
+          ]
+        },
+        {
+          "top": "412.07211303711",
+          "left": "392.51962280273",
+          "text": [
+            {
+              "text": "निर्माण",
+              "font_size": "9",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Creation"
+            }
+          ]
+        },
+        {
+          "top": "201.02409362793",
+          "left": "324.89599609375",
+          "text": [
+            {
+              "text": "व्यवस्थित निवेश योजना",
+              "font_size": "12.697999954224",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Systematic Investment Plan "
+            }
+          ]
+        },
+        {
+          "top": "220.29249572754",
+          "left": "325.22659301758",
+          "text": [
+            {
+              "text": "धन सृजन के लिए आपका निर्माण ब्लॉक",
+              "font_size": "9.2600002288818",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Your building blocks to wealth creation"
+            }
+          ]
+        },
+        {
+          "top": "157.94535827637",
+          "left": "374.22680664062",
+          "text": [
+            {
+              "text": "एसआईपी",
+              "font_size": "40.068000793457",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "SIP"
+            }
+          ]
+        },
+        {
+          "top": "194.98808288574",
+          "left": "111.9925994873",
+          "text": [
+            {
+              "text": "लाइफ के हर नए सफर की",
+              "font_size": "16.243000030518",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Life ke har naye safar ki"
+            }
+          ]
+        },
+        {
+          "top": "219.61633300781",
+          "left": "125.64140319824",
+          "text": [
+            {
+              "text": "#शुरुआतसिपसे",
+              "font_size": "19.829000473022",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "#ShuruaatSIPse"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "2": {
+      "width": "594",
+      "height": "792",
+      "texts": [
+        {
+          "top": "718.11389160156",
+          "left": "32.656299591064",
+          "text": [
+            {
+              "text": "वैधानिक विवरण:",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Statutory Details:"
+            }
+          ]
+        },
+        {
+          "top": "718.23992919922",
+          "left": "88.172798156738",
+          "text": [
+            {
+              "text": "एक्सिस म्यूचुअल फंड को भारतीय ट्रस्ट अधिनियम, 1882 के तहत एक ट्रस्ट के रूप में स्थापित किया गया है, जो एक्सिस बैंक लिमिटेड द्वारा प्रायोजित है (देनदारी सीमित है)",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": " Axis Mutual Fund has been established as a Trust under the Indian Trusts Act, 1882, sponsored by Axis Bank Ltd. (liability restricted to "
+            }
+          ]
+        },
+        {
+          "top": "718.17694091797",
+          "left": "495.74240112305",
+          "text": [
+            {
+              "text": "`",
+              "font_size": "",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "`"
+            }
+          ]
+        },
+        {
+          "top": "718.23992919922",
+          "left": "499.24230957031",
+          "text": [
+            {
+              "text": "1 लाख).",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": " 1 lakh). "
+            }
+          ]
+        },
+        {
+          "top": "718.11389160156",
+          "left": "523.87341308594",
+          "text": [
+            {
+              "text": "ट्रस्टी:",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Trustee:"
+            }
+          ]
+        },
+        {
+          "top": "718.23992919922",
+          "left": "549.42260742188",
+          "text": [
+            {
+              "text": "एक्सिस",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": " Axis "
+            }
+          ]
+        },
+        {
+          "top": "726.79968261719",
+          "left": "32.65478515625",
+          "text": [
+            {
+              "text": "म्यूचुअल फंड ट्रस्टी लिमिटेड",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Mutual Fund Trustee Ltd."
+            }
+          ]
+        },
+        {
+          "top": "726.67364501953",
+          "left": "107.790184021",
+          "text": [
+            {
+              "text": "निवेश प्रबंधक:",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " Investment Manager:"
+            }
+          ]
+        },
+        {
+          "top": "726.79968261719",
+          "left": "174.94869995117",
+          "text": [
+            {
+              "text": "एक्सिस एसेट मैनेजमेंट कंपनी लिमिटेड (एएमसी)।",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": " Axis Asset Management Co. Ltd. (the AMC). "
+            }
+          ]
+        },
+        {
+          "top": "726.67364501953",
+          "left": "306.43634033203",
+          "text": [
+            {
+              "text": "जोखिम:",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Risk Factors:"
+            }
+          ]
+        },
+        {
+          "top": "726.79968261719",
+          "left": "346.11254882812",
+          "text": [
+            {
+              "text": "एक्सिस बैंक लिमिटेड किसी भी नुकसान या कमी के लिए उत्तरदायी या जिम्मेदार नहीं है",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": " Axis Bank Ltd. is not liable or responsible for any loss or shortfall resulting "
+            }
+          ]
+        },
+        {
+          "top": "735.19934082031",
+          "left": "32.649444580078",
+          "text": [
+            {
+              "text": "योजनाओं के संचालन से.",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "from the operation of the schemes. "
+            }
+          ]
+        },
+        {
+          "top": "655.80529785156",
+          "left": "32.726600646973",
+          "text": [
+            {
+              "text": "अस्वीकरण",
+              "font_size": "9",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Disclaimer"
+            }
+          ]
+        },
+        {
+          "top": "751.52685546875",
+          "left": "42.105499267578",
+          "text": [
+            {
+              "text": "म्यूचुअल फंड निवेश बाजार जोखिमों के अधीन हैं, योजना से संबंधित सभी दस्तावेजों को ध्यान से पढ़ें।",
+              "font_size": "12.004849433899",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Mutual Fund investments are subject to market risks, read all scheme related documents carefully."
+            }
+          ]
+        },
+        {
+          "top": "49.474384307861",
+          "left": "108.97940063477",
+          "text": [
+            {
+              "text": "अच्छी खबर …",
+              "font_size": "12",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "The Good News … "
+            }
+          ]
+        },
+        {
+          "top": "84.374435424805",
+          "left": "210.19459533691",
+          "text": [
+            {
+              "text": "एक छोटा सा",
+              "font_size": "6.6859998703003",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "A small "
+            }
+          ]
+        },
+        {
+          "top": "84.374435424805",
+          "left": "268.98999023438",
+          "text": [
+            {
+              "text": "",
+              "font_size": "6.6859998703003",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " "
+            }
+          ]
+        },
+        {
+          "top": "84.274147033691",
+          "left": "233.19828796387",
+          "text": [
+            {
+              "text": "शुरुआत",
+              "font_size": "6.6859998703003",
+              "colorCode": "#97134d",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "SHURUAAT"
+            }
+          ]
+        },
+        {
+          "top": "92.397933959961",
+          "left": "211.95919799805",
+          "text": [
+            {
+              "text": "आज का दिन आपका नेतृत्व कर सकता है",
+              "font_size": "6.6859998703003",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "today can lead you "
+            }
+          ]
+        },
+        {
+          "top": "100.42161560059",
+          "left": "219.7119140625",
+          "text": [
+            {
+              "text": "आपके लक्ष्यों के लिए.",
+              "font_size": "6.6859998703003",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "to your goals."
+            }
+          ]
+        },
+        {
+          "top": "126.00968933105",
+          "left": "83.128799438477",
+          "text": [
+            {
+              "text": "बड़ी बातें",
+              "font_size": "6.6859998703003",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Big things "
+            }
+          ]
+        },
+        {
+          "top": "134.03318786621",
+          "left": "81.975700378418",
+          "text": [
+            {
+              "text": "अक्सर है",
+              "font_size": "6.6859998703003",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "often have "
+            }
+          ]
+        },
+        {
+          "top": "142.05668640137",
+          "left": "91.893600463867",
+          "text": [
+            {
+              "text": "शुरुआत",
+              "font_size": "6.6859998703003",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " beginnings"
+            }
+          ]
+        },
+        {
+          "top": "141.95640563965",
+          "left": "70.122695922852",
+          "text": [
+            {
+              "text": "छोटा",
+              "font_size": "6.6859998703003",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "SMALL"
+            }
+          ]
+        },
+        {
+          "top": "108.12779998779",
+          "left": "290.84368896484",
+          "text": [
+            {
+              "text": "एसआईपी व्यवस्थित निवेश योजना है",
+              "font_size": "8.0170001983643",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline",
+              "transOrg": "SIP is Systematic Investment Plan"
+            }
+          ]
+        },
+        {
+          "top": "167.53965759277",
+          "left": "290.84368896484",
+          "text": [
+            {
+              "text": "निवेशक म्यूचुअल फंड में हर महीने एक निश्चित रकम निवेश करता है",
+              "font_size": "8.0170001983643",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline",
+              "transOrg": "Investor invests a fixed amount every month in mutual funds"
+            }
+          ]
+        },
+        {
+          "top": "128.61375427246",
+          "left": "290.84368896484",
+          "text": [
+            {
+              "text": "नए निवेशकों के लिए आदर्श",
+              "font_size": "8.0170001983643",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline",
+              "transOrg": "Ideal for New Investors"
+            }
+          ]
+        },
+        {
+          "top": "147.71098327637",
+          "left": "290.84368896484",
+          "text": [
+            {
+              "text": "निवेशकों को एक निश्चित अवधि में अपने वित्तीय लक्ष्य हासिल करने में मदद मिलती है",
+              "font_size": "8.0170001983643",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline",
+              "transOrg": "Helps investors achieve their financial goals over a period of time"
+            }
+          ]
+        },
+        {
+          "top": "85.435012817383",
+          "left": "286.41400146484",
+          "text": [
+            {
+              "text": "एसआईपी क्या है?",
+              "font_size": "12",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "What is SIP?"
+            }
+          ]
+        },
+        {
+          "top": "216.6720123291",
+          "left": "89.222999572754",
+          "text": [
+            {
+              "text": "एसआईपी के फायदे",
+              "font_size": "12",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "SIP Advantages"
+            }
+          ]
+        },
+        {
+          "top": "276.69677734375",
+          "left": "54.997501373291",
+          "text": [
+            {
+              "text": "1",
+              "font_size": "38.592998504639",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "1"
+            }
+          ]
+        },
+        {
+          "top": "276.63067626953",
+          "left": "180.27839660645",
+          "text": [
+            {
+              "text": "2",
+              "font_size": "46.592998504639",
+              "colorCode": "#e6e7e7",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "2"
+            }
+          ]
+        },
+        {
+          "top": "276.7060546875",
+          "left": "306.00061035156",
+          "text": [
+            {
+              "text": "3",
+              "font_size": "45.592998504639",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "3"
+            }
+          ]
+        },
+        {
+          "top": "276.69183349609",
+          "left": "431.47421264648",
+          "text": [
+            {
+              "text": "4",
+              "font_size": "46.592998504639",
+              "colorCode": "#e6e7e7",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "4"
+            }
+          ]
+        },
+        {
+          "top": "294.66421508789",
+          "left": "92.954299926758",
+          "text": [
+            {
+              "text": "निवेशक कर सकते हैं",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Investors can "
+            }
+          ]
+        },
+        {
+          "top": "303.30361938477",
+          "left": "92.953994750977",
+          "text": [
+            {
+              "text": "से एसआईपी शुरू करें",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "start SIP with "
+            }
+          ]
+        },
+        {
+          "top": "311.94302368164",
+          "left": "92.953994750977",
+          "text": [
+            {
+              "text": "ए",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "a "
+            }
+          ]
+        },
+        {
+          "top": "311.79901123047",
+          "left": "98.55379486084",
+          "text": [
+            {
+              "text": "न्यूनतम",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "minimum of"
+            }
+          ]
+        },
+        {
+          "top": "320.51071166992",
+          "left": "92.95369720459",
+          "text": [
+            {
+              "text": "`",
+              "font_size": "",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "`"
+            }
+          ]
+        },
+        {
+          "top": "320.43872070312",
+          "left": "96.953399658203",
+          "text": [
+            {
+              "text": "100 प्रति",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " 100 per "
+            }
+          ]
+        },
+        {
+          "top": "329.24313354492",
+          "left": "92.95369720459",
+          "text": [
+            {
+              "text": "महीना।",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "month."
+            }
+          ]
+        },
+        {
+          "top": "264.9612121582",
+          "left": "218.05430603027",
+          "text": [
+            {
+              "text": "वित्तीय",
+              "font_size": "8.4890003204346",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Financial "
+            }
+          ]
+        },
+        {
+          "top": "275.14831542969",
+          "left": "218.05430603027",
+          "text": [
+            {
+              "text": "अनुशासन",
+              "font_size": "8.4890003204346",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Discipline"
+            }
+          ]
+        },
+        {
+          "top": "294.66421508789",
+          "left": "218.20559692383",
+          "text": [
+            {
+              "text": "एसआईपी से निवेशकों को मदद मिलती है",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline",
+              "transOrg": "SIP helps investors "
+            }
+          ]
+        },
+        {
+          "top": "303.30361938477",
+          "left": "218.20370483398",
+          "text": [
+            {
+              "text": "अनुशासन को आत्मसात करें",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline",
+              "transOrg": "imbibe discipline in "
+            }
+          ]
+        },
+        {
+          "top": "311.94332885742",
+          "left": "218.20066833496",
+          "text": [
+            {
+              "text": "निवेश के रूप में",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline",
+              "transOrg": "investments as"
+            }
+          ]
+        },
+        {
+          "top": "311.79931640625",
+          "left": "265.54376220703",
+          "text": [
+            {
+              "text": "प्रत्येक",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " each "
+            }
+          ]
+        },
+        {
+          "top": "320.43902587891",
+          "left": "218.2000579834",
+          "text": [
+            {
+              "text": "महीने का पैसा",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "month the money "
+            }
+          ]
+        },
+        {
+          "top": "329.07873535156",
+          "left": "218.20007324219",
+          "text": [
+            {
+              "text": "निवेश किया जाएगा",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "would get invested "
+            }
+          ]
+        },
+        {
+          "top": "337.71813964844",
+          "left": "218.19920349121",
+          "text": [
+            {
+              "text": "खुद ब खुद।",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "automatically."
+            }
+          ]
+        },
+        {
+          "top": "264.72311401367",
+          "left": "344.30679321289",
+          "text": [
+            {
+              "text": "रुपये की कीमत",
+              "font_size": "8.4890003204346",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Rupee Cost "
+            }
+          ]
+        },
+        {
+          "top": "274.91021728516",
+          "left": "344.30679321289",
+          "text": [
+            {
+              "text": "औसत",
+              "font_size": "8.4890003204346",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Averaging"
+            }
+          ]
+        },
+        {
+          "top": "294.51989746094",
+          "left": "343.59451293945",
+          "text": [
+            {
+              "text": "अधिक मिलना",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Get more"
+            }
+          ]
+        },
+        {
+          "top": "294.66390991211",
+          "left": "377.12240600586",
+          "text": [
+            {
+              "text": "",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": " "
+            }
+          ]
+        },
+        {
+          "top": "303.30361938477",
+          "left": "343.59420776367",
+          "text": [
+            {
+              "text": "म्यूचुअल फंड इकाइयां",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "mutual fund units "
+            }
+          ]
+        },
+        {
+          "top": "311.79931640625",
+          "left": "343.59420776367",
+          "text": [
+            {
+              "text": "जब बाज़ार गिरते हैं",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "when markets fall "
+            }
+          ]
+        },
+        {
+          "top": "320.43902587891",
+          "left": "343.59420776367",
+          "text": [
+            {
+              "text": "और जब कम खरीदें",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "& buy less when "
+            }
+          ]
+        },
+        {
+          "top": "329.07873535156",
+          "left": "343.59420776367",
+          "text": [
+            {
+              "text": "बाज़ार बढ़े",
+              "font_size": "8",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "markets rise"
+            }
+          ]
+        },
+        {
+          "top": "264.72311401367",
+          "left": "469.70788574219",
+          "text": [
+            {
+              "text": "किसकी सत्ता",
+              "font_size": "8.4890003204346",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Power of "
+            }
+          ]
+        },
+        {
+          "top": "274.91021728516",
+          "left": "469.70758056641",
+          "text": [
+            {
+              "text": "कंपाउंडिंग",
+              "font_size": "8.4890003204346",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Compounding"
+            }
+          ]
+        },
+        {
+          "top": "294.51989746094",
+          "left": "468.96411132812",
+          "text": [
+            {
+              "text": "लंबे समय से किया गया एसआईपी",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "SIP done over long "
+            }
+          ]
+        },
+        {
+          "top": "303.15960693359",
+          "left": "468.96380615234",
+          "text": [
+            {
+              "text": "समय की अवधि",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "periods of time"
+            }
+          ]
+        },
+        {
+          "top": "303.30361938477",
+          "left": "522.51959228516",
+          "text": [
+            {
+              "text": "",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline",
+              "transOrg": " "
+            }
+          ]
+        },
+        {
+          "top": "311.94332885742",
+          "left": "468.96350097656",
+          "text": [
+            {
+              "text": "निवेशकों की मदद करता है",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline",
+              "transOrg": "helps investors "
+            }
+          ]
+        },
+        {
+          "top": "320.43902587891",
+          "left": "468.96292114258",
+          "text": [
+            {
+              "text": "शक्ति का एहसास करो",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "realize the power "
+            }
+          ]
+        },
+        {
+          "top": "329.07873535156",
+          "left": "468.96292114258",
+          "text": [
+            {
+              "text": "कंपाउंडिंग का",
+              "font_size": "8",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "of compounding"
+            }
+          ]
+        },
+        {
+          "top": "264.9612121582",
+          "left": "92.988296508789",
+          "text": [
+            {
+              "text": "पर प्रकाश",
+              "font_size": "8.4890003204346",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Light on"
+            }
+          ]
+        },
+        {
+          "top": "275.14831542969",
+          "left": "92.988296508789",
+          "text": [
+            {
+              "text": "जेब",
+              "font_size": "8.4890003204346",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "the Pocket"
+            }
+          ]
+        },
+        {
+          "top": "392.73501586914",
+          "left": "108.19329833984",
+          "text": [
+            {
+              "text": "संयोजन की शक्ति",
+              "font_size": "12",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Power of Compounding"
+            }
+          ]
+        },
+        {
+          "top": "672.03289794922",
+          "left": "32.656299591064",
+          "text": [
+            {
+              "text": "यह एक्सिस म्यूचुअल फंड द्वारा निवेशक शिक्षा और जागरूकता पहल है। निवेशकों को एक बार केवाईसी प्रक्रिया पूरी करनी होगी। www.axismf.com पर जाएँ या हमसे संपर्क करें",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "This is an investor education and awareness initiative by Axis Mutual Fund. Investors have to complete one-time KYC process. Visit www.axismf.com or contact us on "
+            }
+          ]
+        },
+        {
+          "top": "680.43280029297",
+          "left": "32.651062011719",
+          "text": [
+            {
+              "text": "अधिक जानकारी के लिए customerservice@axismf.com। निवेशकों को केवल पंजीकृत म्यूचुअल फंड से ही लेनदेन करना चाहिए, जिसका विवरण www.sebi.gov.in पर उपलब्ध है -",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "customerservice@axismf.com for more information. Investors should deal only with registered Mutual Funds, details of which are available on www.sebi.gov.in - "
+            }
+          ]
+        },
+        {
+          "top": "688.83270263672",
+          "left": "32.649353027344",
+          "text": [
+            {
+              "text": "मध्यस्थ/बाजार अवसंरचना संस्थान अनुभाग। किसी भी शिकायत निवारण के लिए, निवेशक हमें 1800 221 322 पर कॉल कर सकते हैं या हमें customerservice@axismf.com पर लिख सकते हैं या",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Intermediaries/Market Infrastructure Institutions section. For any grievance redressal, investors can call us on 1800 221 322 or write us at customerservice@axismf.com or "
+            }
+          ]
+        },
+        {
+          "top": "697.23260498047",
+          "left": "32.646301269531",
+          "text": [
+            {
+              "text": "सेबी स्कोर्स पोर्टल https://scores.gov.in पर शिकायत दर्ज करें",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "register complaint on SEBI Scores portal at https://scores.gov.in"
+            }
+          ]
+        },
+        {
+          "top": "714.03240966797",
+          "left": "32.644317626953",
+          "text": [
+            {
+              "text": "",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": " "
+            }
+          ]
+        },
+        {
+          "top": "419.0403137207",
+          "left": "108.22650146484",
+          "text": [
+            {
+              "text": "इक्विटी म्यूचुअल फंड में नियमित रूप से एक निश्चित राशि निवेश करने से महत्वपूर्ण प्रभाव पड़ सकता है",
+              "font_size": "10.020999908447",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Investing a fixed amount regularly in equity mutual funds can have a significant impact on "
+            }
+          ]
+        },
+        {
+          "top": "431.06539916992",
+          "left": "108.22589111328",
+          "text": [
+            {
+              "text": "चक्रवृद्धि प्रभाव के कारण धन सृजन।",
+              "font_size": "10.020999908447",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "wealth creation due to compounding effect.  "
+            }
+          ]
+        },
+        {
+          "top": "443.09048461914",
+          "left": "108.22587585449",
+          "text": [
+            {
+              "text": "",
+              "font_size": "10.020999908447",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " "
+            }
+          ]
+        },
+        {
+          "top": "461.30191040039",
+          "left": "38.337398529053",
+          "text": [
+            {
+              "text": "निवेश किए गए वर्षों की संख्या",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "No. of years Invested "
+            }
+          ]
+        },
+        {
+          "top": "461.18939208984",
+          "left": "214.1641998291",
+          "text": [
+            {
+              "text": "5",
+              "font_size": "7.5",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "5 "
+            }
+          ]
+        },
+        {
+          "top": "461.18939208984",
+          "left": "283.77200317383",
+          "text": [
+            {
+              "text": "10",
+              "font_size": "7.5",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "10 "
+            }
+          ]
+        },
+        {
+          "top": "461.18939208984",
+          "left": "356.52490234375",
+          "text": [
+            {
+              "text": "15",
+              "font_size": "7.5",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "15 "
+            }
+          ]
+        },
+        {
+          "top": "461.18939208984",
+          "left": "428.30798339844",
+          "text": [
+            {
+              "text": "20",
+              "font_size": "7.5",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "20 "
+            }
+          ]
+        },
+        {
+          "top": "461.18939208984",
+          "left": "499.12088012695",
+          "text": [
+            {
+              "text": "25",
+              "font_size": "7.5",
+              "colorCode": "#992e56",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "25 "
+            }
+          ]
+        },
+        {
+          "top": "518.00158691406",
+          "left": "38.336181640625",
+          "text": [
+            {
+              "text": "एसआईपी राशि (प्रति माह)",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "SIP Amount (per month) "
+            }
+          ]
+        },
+        {
+          "top": "518.00158691406",
+          "left": "206.79487609863",
+          "text": [
+            {
+              "text": "5,000",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "5,000 "
+            }
+          ]
+        },
+        {
+          "top": "518.00158691406",
+          "left": "278.57748413086",
+          "text": [
+            {
+              "text": "5,000",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "5,000 "
+            }
+          ]
+        },
+        {
+          "top": "518.00158691406",
+          "left": "351.33038330078",
+          "text": [
+            {
+              "text": "5,000",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "5,000 "
+            }
+          ]
+        },
+        {
+          "top": "518.00158691406",
+          "left": "423.11346435547",
+          "text": [
+            {
+              "text": "5,000",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "5,000 "
+            }
+          ]
+        },
+        {
+          "top": "518.00158691406",
+          "left": "493.92636108398",
+          "text": [
+            {
+              "text": "5,000",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "5,000 "
+            }
+          ]
+        },
+        {
+          "top": "544.66815185547",
+          "left": "38.335571289062",
+          "text": [
+            {
+              "text": "निवेशित राशि",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Amount Invested "
+            }
+          ]
+        },
+        {
+          "top": "544.66815185547",
+          "left": "201.60028076172",
+          "text": [
+            {
+              "text": "3,00,000",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "3,00,000 "
+            }
+          ]
+        },
+        {
+          "top": "544.66815185547",
+          "left": "273.38287353516",
+          "text": [
+            {
+              "text": "6,00,000",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "6,00,000 "
+            }
+          ]
+        },
+        {
+          "top": "544.66815185547",
+          "left": "346.13607788086",
+          "text": [
+            {
+              "text": "9,00,000",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "9,00,000 "
+            }
+          ]
+        },
+        {
+          "top": "544.66815185547",
+          "left": "415.74389648438",
+          "text": [
+            {
+              "text": "12,00,000",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "12,00,000 "
+            }
+          ]
+        },
+        {
+          "top": "544.66815185547",
+          "left": "486.55700683594",
+          "text": [
+            {
+              "text": "15,00,000",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "15,00,000 "
+            }
+          ]
+        },
+        {
+          "top": "571.24530029297",
+          "left": "38.334899902344",
+          "text": [
+            {
+              "text": "बेंचमार्क रिटर्न बीएसई सेंसेक्स टीआरआई (%)",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Benchmark Return BSE Sensex TRI (%) "
+            }
+          ]
+        },
+        {
+          "top": "571.24530029297",
+          "left": "208.96841430664",
+          "text": [
+            {
+              "text": "14.0",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "14.0 "
+            }
+          ]
+        },
+        {
+          "top": "571.24530029297",
+          "left": "280.75131225586",
+          "text": [
+            {
+              "text": "14.5",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "14.5 "
+            }
+          ]
+        },
+        {
+          "top": "571.24530029297",
+          "left": "351.32922363281",
+          "text": [
+            {
+              "text": "13.02",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "13.02 "
+            }
+          ]
+        },
+        {
+          "top": "571.24530029297",
+          "left": "425.28741455078",
+          "text": [
+            {
+              "text": "16.0",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "16.0 "
+            }
+          ]
+        },
+        {
+          "top": "571.24530029297",
+          "left": "496.1003112793",
+          "text": [
+            {
+              "text": "14.8",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "14.8 "
+            }
+          ]
+        },
+        {
+          "top": "595.1220703125",
+          "left": "38.334503173828",
+          "text": [
+            {
+              "text": "कार्यकाल के अंत में संचित राशि",
+              "font_size": "7.5",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Corpus Accumulated at the end of tenure "
+            }
+          ]
+        },
+        {
+          "top": "595.1220703125",
+          "left": "200.87590026855",
+          "text": [
+            {
+              "text": "4,36,004",
+              "font_size": "7.5",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " 4,36,004 "
+            }
+          ]
+        },
+        {
+          "top": "595.1220703125",
+          "left": "270.48348999023",
+          "text": [
+            {
+              "text": "13,51,121",
+              "font_size": "7.5",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " 13,51,121  "
+            }
+          ]
+        },
+        {
+          "top": "595.1220703125",
+          "left": "343.23669433594",
+          "text": [
+            {
+              "text": "27,78,406",
+              "font_size": "7.5",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " 27,78,406 "
+            }
+          ]
+        },
+        {
+          "top": "595.1220703125",
+          "left": "415.01959228516",
+          "text": [
+            {
+              "text": "87,47,304",
+              "font_size": "7.5",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " 87,47,304 "
+            }
+          ]
+        },
+        {
+          "top": "595.1220703125",
+          "left": "482.81378173828",
+          "text": [
+            {
+              "text": "1,58,17,940",
+              "font_size": "7.5",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": " 1,58,17,940"
+            }
+          ]
+        },
+        {
+          "top": "622.3271484375",
+          "left": "33.322399139404",
+          "text": [
+            {
+              "text": "स्रोत: बीएसई सेंसेक्स।",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Source: BSE Sensex. "
+            }
+          ]
+        },
+        {
+          "top": "630.72705078125",
+          "left": "33.322402954102",
+          "text": [
+            {
+              "text": "रिटर्न संबंधित अवधि में बीएसई सेंसेक्स कुल रिटर्न इंडेक्स का सीएजीआर रिटर्न है।",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline",
+              "transOrg": "Returns are CAGR returns of  BSE Sensex Total Return Index over the respective periods.  "
+            }
+          ]
+        },
+        {
+          "top": "630.60101318359",
+          "left": "304.93969726562",
+          "text": [
+            {
+              "text": "पिछला प्रदर्शन भविष्य में कायम रह भी सकता है और नहीं भी।",
+              "font_size": "7",
+              "colorCode": "#373334",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Past performance may or may not be sustained in future."
+            }
+          ]
+        },
+        {
+          "top": "490.59909057617",
+          "left": "40.520999908447",
+          "text": [
+            {
+              "text": "निवेश की तिथि",
+              "font_size": "7.5",
+              "colorCode": "#fefefe",
+              "fontWeight": "underline superscript bold",
+              "transOrg": "Date of Investment"
+            }
+          ]
+        },
+        {
+          "top": "491.1953125",
+          "left": "192.51100158691",
+          "text": [
+            {
+              "text": "वां",
+              "font_size": "3.5",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline",
+              "transOrg": "th"
+            }
+          ]
+        },
+        {
+          "top": "491.47869873047",
+          "left": "184.3908996582",
+          "text": [
+            {
+              "text": "30 सितंबर 2018",
+              "font_size": "7",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline",
+              "transOrg": "30  September 2018"
+            }
+          ]
+        },
+        {
+          "top": "491.1953125",
+          "left": "264.06619262695",
+          "text": [
+            {
+              "text": "वां",
+              "font_size": "3.5",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline",
+              "transOrg": "th"
+            }
+          ]
+        },
+        {
+          "top": "491.47869873047",
+          "left": "255.94639587402",
+          "text": [
+            {
+              "text": "30 सितंबर 2013",
+              "font_size": "7",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline",
+              "transOrg": "30  September 2013"
+            }
+          ]
+        },
+        {
+          "top": "491.1953125",
+          "left": "335.63571166992",
+          "text": [
+            {
+              "text": "वां",
+              "font_size": "3.5",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline",
+              "transOrg": "th"
+            }
+          ]
+        },
+        {
+          "top": "491.47869873047",
+          "left": "327.515625",
+          "text": [
+            {
+              "text": "30 सितंबर 2008",
+              "font_size": "7",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline",
+              "transOrg": "30  September 2008"
+            }
+          ]
+        },
+        {
+          "top": "491.1953125",
+          "left": "407.17700195312",
+          "text": [
+            {
+              "text": "वां",
+              "font_size": "3.5",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline",
+              "transOrg": "th"
+            }
+          ]
+        },
+        {
+          "top": "491.47869873047",
+          "left": "399.05718994141",
+          "text": [
+            {
+              "text": "30 सितंबर 2003",
+              "font_size": "7",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline",
+              "transOrg": "30  September 2003"
+            }
+          ]
+        },
+        {
+          "top": "491.1953125",
+          "left": "478.74609375",
+          "text": [
+            {
+              "text": "वां",
+              "font_size": "3.5",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline",
+              "transOrg": "th"
+            }
+          ]
+        },
+        {
+          "top": "491.47869873047",
+          "left": "470.62628173828",
+          "text": [
+            {
+              "text": "30 सितंबर 1998",
+              "font_size": "7",
+              "colorCode": "#ec2d6a",
+              "fontWeight": "underline",
+              "transOrg": "30  September 1998"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
