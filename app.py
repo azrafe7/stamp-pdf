@@ -13,31 +13,37 @@ OUTPUT_FILE = "output.pdf"
 
 def json_text_data_to_html(data):
   try:
-    POS_SCALE = 0.75
-    
+    POS_SCALE_X = 1
+    POS_SCALE_Y = 1
+
     data_text = data["text"][0]
     pos = [0, 0]
-    
+
     json_styles = data_text["fontWeight"].lower().split(" ")
-    pos = [float(data["top"]), float(data["left"])]
-    pos = [POS_SCALE * float(data["top"]), POS_SCALE * float(data["left"])]
+    pos = [float(data["left"]), float(data["top"])]
+    pos = [POS_SCALE_X * float(data["left"]), POS_SCALE_Y * float(data["top"])]
 
     styles = []
     font_size = data_text["font_size"]
-    if font_size: styles.append(f"font-size:{float(font_size)}")
+    if font_size: 
+      styles.append(f"font-size:{float(font_size)}")
     font_color = data_text["colorCode"]
-    if font_color: styles.append(f"color:{font_color}")
-    
+    if font_color: 
+      styles.append(f"color:{font_color}")
+
     if "underline" in json_styles:
       styles.append("text-decoration:underline")
+      pass
     if "bold" in json_styles:
       styles.append("font-weight:bold")
-    
-    html_fmt = "<{{wrapper}} style='{{style}}'>{{text}}</{{wrapper}}>"
+      pass
+
+    html_fmt = "<span><{{wrapper}} style='{{style}}'>{{text}}</{{wrapper}}></span>"
     text = data_text["transOrg"]
     wrapper = "span"
     if "superscript" in json_styles:
-      wrapper = "sup"
+      # wrapper = "sup"
+      pass
     html = html_fmt
     html = html.replace("{{text}}", text)
     html = html.replace("{{wrapper}}", wrapper)
@@ -47,9 +53,9 @@ def json_text_data_to_html(data):
     print(e)
     breakpoint()
     pass
-  
+
   return html, pos
-  
+
 
 if __name__ == "__main__":
   print(f"Input: '{settings.INPUT_FILE}'")
@@ -66,7 +72,7 @@ if __name__ == "__main__":
   # test stamping text
   page = out_doc[0]  # new or existing page via doc[n]
   p = pymupdf.Point(32, 120)  # start point of 1st line4
-  
+
   print(f"is_wrapped: {page.is_wrapped}")
   if not(page.is_wrapped):
     page.wrap_contents() # reset page origin
@@ -98,17 +104,18 @@ if __name__ == "__main__":
   css += "\n* {font-family: Noto Sans; font-size:14px; color:#11d}"
   html = page.insert_htmlbox(rect=rect, text=html_text, css=css, archive=arch)
 
-  rect = pymupdf.Rect(25, 200, 400, 300)
+  rect = pymupdf.Rect(25, 180, 400, 300)
   html_text = "text<sup style='font-weight:bold; text-decoration:underline;'>superscript</sup>norm<b style='color:#1f1;font-size:10'>eशि क्या </b>xt </br><li style='color:#f00'> - list</li>"
   css = ""
   css += "\n@font-face {font-family: Noto Sans; src: url(NotoSans-VariableFont_wdth,wght.ttf);}"
+  css += "\n* {font-family: Noto Sans; font-size:14px; color:#11d}"
   html = page.insert_htmlbox(rect=rect, text=html_text, css=css, archive=arch)
 
   out_doc.subset_fonts(verbose=True)  # build subset fonts to reduce file size
   out_doc.save(out_doc.name, incremental=True, encryption=pymupdf.PDF_ENCRYPT_KEEP)
 
-  # 11 lines
-  GRID = True
+  # grid lines
+  GRID = False
   # breakpoint()
   if GRID:
     for page in out_doc.pages():
@@ -146,29 +153,34 @@ if __name__ == "__main__":
       out_doc.save(out_doc.name, incremental=True, encryption=pymupdf.PDF_ENCRYPT_KEEP)
 
   # insert text from json
+  print("Stamping and saving texts from json...")
   for json_page in json_data:
     page_idx, data = list(json_page.items())[0]
     page_idx = int(page_idx)
     page_w, page_h, texts = (float(data["width"]), float(data["height"]), data["texts"])
     print(f"Page {page_idx - 1} ({page_w}x{page_h}): {len(texts)} texts")
-    for text_data in texts:
+    page = out_doc[page_idx - 1]
+    for text_data in texts[:]:
       html, pos = json_text_data_to_html(text_data)
-      page = out_doc[page_idx - 1]
       rect = pymupdf.Rect(pos[0], pos[1], page_w, page_h)
       # breakpoint()
-      print(rect, pos, html)
-      page.insert_htmlbox(rect=rect, text=html, css="", archive=arch)
-  
+      # print(rect, pos, html)
+      css = ""
+      css += "\n@font-face {font-family: Noto Sans; src: url(NotoSans-VariableFont_wdth,wght.ttf);}"
+      # css += "\n* {font-family: Noto Sans; font-size:14px; color:#11d; background-color:#55555555}"
+      css += "\n* {font-family: Noto Sans; font-size:14px; color:#11d;"
+      page.insert_htmlbox(rect=rect, text=html, css=css)
+
   out_doc.save(out_doc.name, incremental=True, encryption=pymupdf.PDF_ENCRYPT_KEEP)
-      
-    
+
+
   # test coords
   page = out_doc[0]
   print(f"is_wrapped: {page.is_wrapped}")
   if not(page.is_wrapped):
     page.wrap_contents() # reset page origin
   page.clean_contents() # reset page origin
-  
+
   p = pymupdf.Point(151, 286)  # start point of 1st line
   p = p * page.transformation_matrix
   p = pymupdf.Point(118, 212)  # start point of 1st line
@@ -191,5 +203,12 @@ if __name__ == "__main__":
 
   out_doc.save(out_doc.name, incremental=True, encryption=pymupdf.PDF_ENCRYPT_KEEP)
 
+  # breakpoint()
+  out_path = Path(out_doc.name)
+  new_path = out_path.parent / (out_path.stem + '_opt' + out_path.suffix)
+  print(f"Optimizing pdf into {new_path.as_posix()}...")
+  out_doc.save(new_path, deflate=True, encryption=pymupdf.PDF_ENCRYPT_KEEP, clean=True, garbage=4)
+  print("Done")
   
- 
+
+
