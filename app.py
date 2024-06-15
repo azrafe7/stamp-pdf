@@ -153,6 +153,7 @@ if __name__ == "__main__":
       out_doc.save(out_doc.name, incremental=True, encryption=pymupdf.PDF_ENCRYPT_KEEP)
 
   # insert text from json
+  print()
   print("Stamping and saving texts from json...")
   for json_page in json_data:
     page_idx, data = list(json_page.items())[0]
@@ -168,7 +169,7 @@ if __name__ == "__main__":
       css = ""
       css += "\n@font-face {font-family: Noto Sans; src: url(NotoSans-VariableFont_wdth,wght.ttf);}"
       # css += "\n* {font-family: Noto Sans; font-size:14px; color:#11d; background-color:#55555555}"
-      css += "\n* {font-family: Noto Sans; font-size:14px; color:#11d;"
+      css += "\n* {font-family: Noto Sans; font-size:14px; color:#11d;}"
       page.insert_htmlbox(rect=rect, text=html, css=css)
 
   out_doc.save(out_doc.name, incremental=True, encryption=pymupdf.PDF_ENCRYPT_KEEP)
@@ -176,6 +177,7 @@ if __name__ == "__main__":
 
   # test coords
   page = out_doc[0]
+  print()
   print(f"is_wrapped: {page.is_wrapped}")
   if not(page.is_wrapped):
     page.wrap_contents() # reset page origin
@@ -206,6 +208,7 @@ if __name__ == "__main__":
   # breakpoint()
   out_path = Path(out_doc.name)
   new_path = out_path.parent / (out_path.stem + '_opt' + out_path.suffix)
+  print()
   print(f"Optimizing pdf into {new_path.as_posix()}...")
   out_doc.save(new_path, deflate=True, encryption=pymupdf.PDF_ENCRYPT_KEEP, clean=True, garbage=4)
   print("Done")
